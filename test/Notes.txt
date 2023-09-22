@@ -1,0 +1,6 @@
+There's 2 different testing
+
+Unit Test - Done locally (local hardhat/ forked hardhat)
+
+
+Staging Test - done on a testnet (sepolia)
