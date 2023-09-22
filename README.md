@@ -1,7 +1,9 @@
 # 👷🏻💸 Hardhat Fund Me
 
-*This repo has been updated to work with Sepolia Testnet over Goerli.*
-
+This Hardhat Fund Me repo is about an application of hardhat-deploy
+### hardhat-deploy
+Read this: https://github.com/wighawag/hardhat-deploy
+### Youtube
 This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
 
 *[⌨️ (10:00:48) Lesson 7: Hardhat Fund Me](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36048s)*
