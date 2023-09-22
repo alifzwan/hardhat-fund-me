@@ -1,6 +1,6 @@
 # 👷🏻💸 Hardhat Fund Me
 
-This Hardhat Fund Me repo is about an application of hardhat-deploy
+This Hardhat Fund Me repo is about an application of **hardhat-deploy**
 ### hardhat-deploy
 Read this: https://github.com/wighawag/hardhat-deploy
 ### Youtube
