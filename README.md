@@ -1,4 +1,4 @@
-# Hardhat Fund Me
+# 👷🏻💸 Hardhat Fund Me
 
 *This repo has been updated to work with Sepolia Testnet over Goerli.*
 
