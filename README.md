@@ -183,13 +183,6 @@ yarn add -dev @chainlink/contracts
 ```
 # Thank you!
 
-If you appreciated this, feel free to follow me or donate!
-
-BTC Address: 3C8PAXFvaHyWXVntGFqP2GbQxh27UcZdwG
-
-
-[![MelloIzGud Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MelloIzGud)
-[![MelloIzGud Spotify](https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/user/alifzwan?si=fe95ea18995c4bee)
 
 
 
